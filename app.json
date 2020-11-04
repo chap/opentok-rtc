@@ -31,7 +31,8 @@
       "required": false
     },
     "NPM_CONFIG_PRODUCTION": {
-      "value": true
+      "value": true,
+      "required": false
     }
   },
   "addons": [
