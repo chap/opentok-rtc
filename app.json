@@ -29,6 +29,9 @@
     "FB_AUTH_SECRET": {
       "description": "Firebase Auth secret for the database. Go to https://firebase.com to get a valid URL and secret.",
       "required": false
+    },
+    "NPM_CONFIG_PRODUCTION": {
+      "value": true
     }
   },
   "addons": [
